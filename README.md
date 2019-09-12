@@ -14,7 +14,6 @@ $ git flow init
  - develop
  - feature/bugfix
  - hotfix
- 
 
 ### GIT Branch bash에서 시각화
 `A DOG!`
