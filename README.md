@@ -2,7 +2,7 @@
 
 ### GIT FLOW 개념도
 
-<img height="100" src="https://jeffkreeftmeijer.com/git-flow/git-flow.png">
+<img height="600" src="https://jeffkreeftmeijer.com/git-flow/git-flow.png">
 
 ### 시작하기
 ```bash
