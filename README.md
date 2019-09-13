@@ -2,6 +2,11 @@
     <img src="./img/main.png" width="700px">
 </p>
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/dokysp-study/git-flow-test)
+![GitHub Release Date](https://img.shields.io/github/release-date/DokySp-study/git-flow-test)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/dokysp-study/git-flow-test/develop?label=last%20commit%20%28develop%29&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/github/license/dokysp-study/git-flow-test)
+
 ### GIT FLOW 개념도
 
 <p align="center">
