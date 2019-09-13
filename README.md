@@ -89,6 +89,8 @@ $ git flow init
 ```bash
 $ git log --All --Decorate --Oneline --Graph
 ```
+<img height="600" src="./img/adog.png">
+
 
 ### 래퍼런스
  - [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
