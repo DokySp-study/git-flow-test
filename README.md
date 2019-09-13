@@ -1,10 +1,12 @@
 <p align="center">
-    <img src="./img/main.png" width="800px">
+    <img src="./img/main.png" width="700px">
 </p>
 
 ### GIT FLOW 개념도
 
-<img height="600" src="https://jeffkreeftmeijer.com/git-flow/git-flow.png">
+<p align="center">
+	<img height="600" src="./img/git-flow-description.png">
+</p>
 
 ### 시작하기
 ```bash
