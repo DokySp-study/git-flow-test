@@ -3,10 +3,18 @@
 </p>
 
 <p align="center">
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/dokysp-study/git-flow-test)
-![GitHub Release Date](https://img.shields.io/github/release-date/DokySp-study/git-flow-test)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/dokysp-study/git-flow-test/develop?label=last%20commit%20%28develop%29&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/github/license/dokysp-study/git-flow-test)
+	<a href="https://img.shields.io/github/v/release/dokysp-study/git-flow-test" alt="GitHub release (latest by date)">
+		<img src="https://img.shields.io/github/v/release/dokysp-study/git-flow-test"/>
+	</a>
+	<a href="https://img.shields.io/github/release-date/DokySp-study/git-flow-test" alt="GitHub Release Date">
+		<img src="https://img.shields.io/github/release-date/DokySp-study/git-flow-test"/>
+	</a>
+	<a href="https://img.shields.io/github/last-commit/dokysp-study/git-flow-test/develop?label=last%20commit%20%28develop%29&logo=git&logoColor=white" alt="GitHub last commit (branch)">
+		<img src="https://img.shields.io/github/last-commit/dokysp-study/git-flow-test/develop?label=last%20commit%20%28develop%29&logo=git&logoColor=white"/>
+	</a>
+	<a href="https://img.shields.io/github/license/dokysp-study/git-flow-test" alt="GitHub License">
+		<img src="https://img.shields.io/github/license/dokysp-study/git-flow-test"/>
+	</a>
 </p>
 
 ### GIT FLOW 개념도
