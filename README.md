@@ -1,4 +1,7 @@
-# GIT-FLOW-TEST
+<p align="center">
+    <img src="./img/main.png" width="600px">
+</p>
+# GIT-FLOW TEST
 
 ### GIT FLOW 개념도
 
