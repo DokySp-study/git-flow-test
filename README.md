@@ -3,19 +3,13 @@
 </p>
 
 <p align="center">
-	<a href="https://img.shields.io/github/v/release/dokysp-study/git-flow-test" alt="GitHub release (latest by date)">
-		<img src="https://img.shields.io/github/v/release/dokysp-study/git-flow-test"/>
-	</a>
-	<a href="https://img.shields.io/github/release-date/DokySp-study/git-flow-test" alt="GitHub Release Date">
-		<img src="https://img.shields.io/github/release-date/DokySp-study/git-flow-test"/>
-	</a>
-	<a href="https://img.shields.io/github/last-commit/dokysp-study/git-flow-test/develop?label=last%20commit%20%28develop%29&logo=git&logoColor=white" alt="GitHub last commit (branch)">
-		<img src="https://img.shields.io/github/last-commit/dokysp-study/git-flow-test/develop?label=last%20commit%20%28develop%29&logo=git&logoColor=white"/>
-	</a>
-	<a href="https://img.shields.io/github/license/dokysp-study/git-flow-test" alt="GitHub License">
-		<img src="https://img.shields.io/github/license/dokysp-study/git-flow-test"/>
-	</a>
+	<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/dokysp-study/git-flow-test">
+	<img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/dokysp-study/git-flow-test">
+	<img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/dokysp-study/git-flow-test/develop">
+	<img alt="GitHub" src="https://img.shields.io/github/license/dokysp-study/git-flow-test">
 </p>
+
+<br>
 
 ## GIT FLOW 개념도
 
@@ -114,7 +108,7 @@ $ git flow init
 ```bash
 $ git log --All --Decorate --Oneline --Graph
 ```
-<img height="600" src="./img/adog.png">
+<img height="300" src="./img/adog.png">
 
 
 ## 래퍼런스
