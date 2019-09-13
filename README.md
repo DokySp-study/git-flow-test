@@ -1,8 +1,6 @@
 <p align="center">
-    <img src="./img/main.png" width="600px">
+    <img src="./img/main.png" width="800px">
 </p>
-
-# GIT-FLOW TEST
 
 ### GIT FLOW 개념도
 
