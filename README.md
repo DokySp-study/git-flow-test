@@ -17,18 +17,18 @@
 	</a>
 </p>
 
-### GIT FLOW 개념도
+## GIT FLOW 개념도
 
 <p align="center">
 	<img height="650" src="./img/git-flow-description.png">
 </p>
 
-### 시작하기
+## 시작하기
 ```bash
 $ git flow init
 ```
 
-### 주요 브랜치
+## 주요 브랜치
  - **master**
    - 배포 시 사용하는 브랜치
    
@@ -83,12 +83,22 @@ $ git flow init
  
 <br>
 
-## 참고
+# 참고
 
-### --no-ff 옵션
+## --no-ff 옵션
+
+![develop](./img/1.png)
+
+1번은 --no-ff 옵션 없이 finish 한 것이다.
+ - develop 브랜치에 수정을 가하는 **커밋 1개**만 존재한다.
+
 ![ff](./img/111.png)
 
+2번은 --no-ff 옵션을 넣어 finish 한 것이다.
+ - 코드 수정 커밋 + develop 브랜치 Merge **커밋 2개**가 존재한다.
+ 
 ![no-ff](./img/222.png)
+
 
 ## release 후에 git push
  - **Before:** develop 브랜치만 push한 경우.
@@ -99,7 +109,7 @@ $ git flow init
  - master 브랜치 push 전에는 5번 커밋이 마스터로 머지된 커밋이라는 것을 인식하지 못하는 것 같다.
  - master 브랜치에서 push하면 문제가 해결된다.
  
-### GIT Branch bash에서 시각화
+## GIT Branch bash에서 시각화
 `A DOG!`
 ```bash
 $ git log --All --Decorate --Oneline --Graph
@@ -107,7 +117,7 @@ $ git log --All --Decorate --Oneline --Graph
 <img height="600" src="./img/adog.png">
 
 
-### 래퍼런스
+## 래퍼런스
  - [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
  - [[GIT]git-flow 사용하기](https://uroa.tistory.com/106)
  - [[Review] gitflow, 쉬운 git branch 관리](http://huns.me/development/1131)
