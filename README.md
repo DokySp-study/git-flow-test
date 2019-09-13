@@ -22,11 +22,11 @@ $ git log --All --Decorate --Oneline --Graph
 ```
 
 ### --no-ff 옵션
-![--no-ff vs --ff branch](./img/1.png)
- - **1번: --no-ff 옵션을 사용하지 않음.**
-   - feature 브랜치가 develop 브랜치의 커밋으로 통일됨.
- - **2번: --no-ff 옵션을 사용함.**
-   - feature 브랜치가 별도로 존재함.
+![ff](./img/111.png)
+
+![no-ff](./img/222.png)
+
+   
 
 ## release 후에 git push
  - **Before:** develop 브랜치만 push한 경우.
@@ -42,3 +42,4 @@ $ git log --All --Decorate --Oneline --Graph
  - [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
  - [[GIT]git-flow 사용하기](https://uroa.tistory.com/106)
  - [[Review] gitflow, 쉬운 git branch 관리](http://huns.me/development/1131)
+ - [[GitHub] Git 브랜치의 종류 및 사용법 (5가지)](https://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html)
