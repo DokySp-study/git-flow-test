@@ -104,7 +104,11 @@ $ git flow init
  - master 브랜치에서 push하면 문제가 해결된다.
  
 ## GIT Branch bash에서 시각화
+
 `A DOG!`
+
+<img height="200" src="https://camo.githubusercontent.com/bfa3098c33d2da4ba5706a95e2c626efdf18cec2/68747470733a2f2f692e737461636b2e696d6775722e636f6d2f456c566b662e6a7067">
+
 ```bash
 $ git log --All --Decorate --Oneline --Graph
 ```
